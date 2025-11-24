@@ -102,11 +102,11 @@ Calculation
 ![WhatsApp Image 2025-11-22 at 08 01 10_18464c84](https://github.com/user-attachments/assets/4587019b-b03d-4993-9634-5b886931c945)
 
 
-Frequency Deviation Practical = 
+Frequency Deviation Practical = 2777.78
 
-Modulation Index Practical	= 
+Modulation Index Practical	= 0.1239
 
-Modulation Index Theoretical	=
+Modulation Index Theoretical	=0.5
 
 
 
